@@ -7,7 +7,7 @@ import (
 
 	types "github.com/chrusty/prometheus_webhook_snmptrapper/types"
 
-	logrus "github.com/Sirupsen/logrus"
+	logrus "github.com/sirupsen/logrus"
 	template "github.com/prometheus/alertmanager/template"
 )
 
